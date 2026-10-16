@@ -1,0 +1,19 @@
+.user{
+    background-color: teal;
+    margin: 40px;
+    padding: 15px 25px;
+    width: 200px;
+    border: 5px solid rgb(0, 0, 0);
+}
+.name p:nth-child(1){
+    background-color: aqua;
+    margin: 0px 0px 60px 0px;
+}
+.name p:nth-child(2){
+    background-color: aqua;
+    margin: 0px 0px 60px 0px;
+}
+.name p:nth-child(3){
+    background-color: aqua;
+    margin: 0px 0px 60px 0px;
+}
